@@ -6,6 +6,7 @@ date: 2020-07-15
 paperurl: "/files/divconq.pdf"
 excerpt: ""
 review: true
+rr: "Quarterly Journal of Political Science"
 ---
 
 **Abstract.**

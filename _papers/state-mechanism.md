@@ -2,7 +2,7 @@
 title: "Designing Political Order"
 collection: papers
 permalink: /papers/designing-political-order
-date: 2020-09-08
+date: 2021-01-25
 paperurl: "/files/state-mechanism.pdf"
 coauthors: "Scott F Abramson and Emiel Awad"
 excerpt: ""

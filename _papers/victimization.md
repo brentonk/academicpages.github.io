@@ -7,6 +7,7 @@ paperurl: "/files/victimization.pdf"
 coauthors: "Michael Gibilisco and Miguel R. Rueda"
 excerpt: ""
 review: true
+rr: "Journal of Conflict Resolution"
 ---
 
 **Abstract.**

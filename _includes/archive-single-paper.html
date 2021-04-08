@@ -38,10 +38,10 @@
       <p class="page__meta"><i class="fa fa-clock-o" aria-hidden="true"></i> {% include read-time.html %}</p>
     {% endif %}
 
-      {% if post.coauthors or post.review %}
+      {% if post.coauthors or post.review or post.rr %}
       <p>
         {% if post.coauthors %}With {{ post.coauthors }}.{% endif %}
-        {% if post.review %}<i>Under review.</i>{% endif %}
+        {% if post.rr %}Revise and resubmit, <i>{{ post.rr }}</i>.{% elsif post.review %}<i>Under review.</i>{% endif %}
       </p>
       {% endif %}
 

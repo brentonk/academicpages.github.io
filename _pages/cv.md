@@ -52,7 +52,7 @@ Mailing
 
 # Publications
 
-* Mark Fey and Brenton Kenkel, ["Is an Ultimatum the Last Word on Crisis Bargaining?"](https://doi.org/10.1086/708951) forthcoming in *Journal of Politics*.
+* Mark Fey and Brenton Kenkel, ["Is an Ultimatum the Last Word on Crisis Bargaining?"](https://doi.org/10.1086/708951) *Journal of Politics* 83, no. 1 (2021).
 
 * Brenton Kenkel, ["The Efficacy of Cheap Talk in Collective Action Problems,"](https://doi.org/10.1177/0951629819850625) *Journal of Theoretical Politics* 31, no. 3 (2019).
 
@@ -82,6 +82,8 @@ Mailing
 * ["Competition and Civilian Victimization"](http://bkenkel.com/papers/competition-civilian-victimization) (with Michael Gibilisco and Miguel Rueda)
 
 * ["International Warfare, Cooperative Statebuilding, and European Parliaments"](http://bkenkel.com/papers/warfare-cooperative-statebuilding) (with Jack Paine)
+
+* ["Uncertainty in Crisis Bargaining with Multiple Policy Options"](http://bkenkel.com/papers/hassling-design) (with Peter Schram)
 
 
 ## Awards and Grants
@@ -139,7 +141,7 @@ Mailing
 
 # Other Conference Presentations
 
-* American Political Science Association: 2011, 2013--2014, 2016--2019
+* American Political Science Association: 2011, 2013--2014, 2016--2020
 * Midwest Political Science Association: 2012--2015, 2019
 * Southern Political Science Association: 2013, 2016, 2019--2020
 * European Political Science Association: 2017
