@@ -10,6 +10,14 @@ If you plan to cite or circulate one of the papers here, please email me first t
 {% include base_path %}
 
 {% for post in site.papers reversed %}
+  {% if post.rr %}
   {% include archive-single-paper.html %}
+  {% endif %}
+{% endfor %}
+
+{% for post in site.papers reversed %}
+  {% unless post.rr %}
+  {% include archive-single-paper.html %}
+  {% endunless %}
 {% endfor %}
 
