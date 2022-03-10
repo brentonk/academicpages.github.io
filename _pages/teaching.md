@@ -7,7 +7,7 @@ author_profile: true
 
 {% include base_path %}
 
-In fall 2020, my office hours take place remotely and are available by appointment only.
+In spring 2022, my office hours are Tuesdays, 2:00--4:00pm, in Commons Center 324.
 
 I have taught the following courses.  Syllabi and other materials not listed here are available on request.
 

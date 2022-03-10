@@ -2,7 +2,7 @@
 title: "International Warfare, Cooperative Statebuilding, and European Parliaments"
 collection: papers
 permalink: /papers/warfare-cooperative-statebuilding
-date: 2020-12-03
+date: 2022-03-10
 paperurl: "/files/external-threats.pdf"
 coauthors: "Jack Paine"
 excerpt: ""

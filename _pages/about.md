@@ -15,6 +15,3 @@ I study the political economy of conflict and diplomacy.
 My research focuses on how states construct order and maintain power, in both the international system and the process of building the state itself.
 I am also interested in how states use diplomatic communication to advance their aims---and the incentive problems that may impede credible information transmission.
 
-Most of my research uses game-theoretic models to develop theories of strategic interaction among states and other political actors.
-I also use structural estimation techniques to identify which model specifications best fit the data we observe, which in turn allows us to answer counterfactual questions about strategic choices in politics.
-

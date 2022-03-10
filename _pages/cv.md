@@ -52,6 +52,8 @@ Mailing
 
 # Publications
 
+* Michael Gibilisco, Brenton Kenkel, and Miguel R. Rueda, ["Competition and Civilian Victimization,"](https://doi.org/10.1177/00220027211070621) forthcoming in *Journal of Conflict Resolution*.
+
 * Mark Fey and Brenton Kenkel, ["Is an Ultimatum the Last Word on Crisis Bargaining?"](https://doi.org/10.1086/708951) *Journal of Politics* 83, no. 1 (2021).
 
 * Brenton Kenkel, ["The Efficacy of Cheap Talk in Collective Action Problems,"](https://doi.org/10.1177/0951629819850625) *Journal of Theoretical Politics* 31, no. 3 (2019).
@@ -69,7 +71,9 @@ Mailing
 
 ## Working Papers
 
-* ["Social Conflict and the Predatory State"](http://bkenkel.com/papers/social-conflict-predatory-state)
+* ["Social Conflict and the Predatory State"](http://bkenkel.com/papers/social-conflict-predatory-state) (revise and resubmit, *Quarterly Journal of Political Science*)
+
+* ["International Warfare, Cooperative Statebuilding, and European Parliaments"](http://bkenkel.com/papers/warfare-cooperative-statebuilding) (with Jack Paine) (revise and resubmit, *International Organization*)
 
 * ["Punish Liars, Not Free-Riders"](http://bkenkel.com/papers/punish-liars)
 
@@ -78,10 +82,6 @@ Mailing
 * ["Designing Political Order"](http://bkenkel.com/papers/designing-political-order) (with Scott Abramson and Emiel Awad)
 
 * ["The Effective Power of Military Coalitions: A Unified Theoretical and Empirical Model"](http://bkenkel.com/papers/effective-power-coalitions) (with Kristopher Ramsay)
-
-* ["Competition and Civilian Victimization"](http://bkenkel.com/papers/competition-civilian-victimization) (with Michael Gibilisco and Miguel Rueda)
-
-* ["International Warfare, Cooperative Statebuilding, and European Parliaments"](http://bkenkel.com/papers/warfare-cooperative-statebuilding) (with Jack Paine)
 
 * ["Uncertainty in Crisis Bargaining with Multiple Policy Options"](http://bkenkel.com/papers/hassling-design) (with Peter Schram)
 
