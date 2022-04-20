@@ -52,6 +52,8 @@ Mailing
 
 # Publications
 
+* Brenton Kenkel and Jack Paine, ["A Theory of External Wars and European Parliaments,"](http://bkenkel.com/publications/external-wars) conditionally accepted at *International Organization*.
+
 * Michael Gibilisco, Brenton Kenkel, and Miguel R. Rueda, ["Competition and Civilian Victimization,"](https://doi.org/10.1177/00220027211070621) forthcoming in *Journal of Conflict Resolution*.
 
 * Mark Fey and Brenton Kenkel, ["Is an Ultimatum the Last Word on Crisis Bargaining?"](https://doi.org/10.1086/708951) *Journal of Politics* 83, no. 1 (2021).
@@ -73,17 +75,16 @@ Mailing
 
 * ["Social Conflict and the Predatory State"](http://bkenkel.com/papers/social-conflict-predatory-state) (revise and resubmit, *Quarterly Journal of Political Science*)
 
-* ["International Warfare, Cooperative Statebuilding, and European Parliaments"](http://bkenkel.com/papers/warfare-cooperative-statebuilding) (with Jack Paine) (revise and resubmit, *International Organization*)
-
-* ["Punish Liars, Not Free-Riders"](http://bkenkel.com/papers/punish-liars)
-
 * ["Diplomatic Relations and Conflict Management: A Dynamic Analysis"](http://bkenkel.com/papers/diplomatic-relations-conflict)
-
-* ["Designing Political Order"](http://bkenkel.com/papers/designing-political-order) (with Scott Abramson and Emiel Awad)
 
 * ["The Effective Power of Military Coalitions: A Unified Theoretical and Empirical Model"](http://bkenkel.com/papers/effective-power-coalitions) (with Kristopher Ramsay)
 
 * ["Uncertainty in Crisis Bargaining with Multiple Policy Options"](http://bkenkel.com/papers/hassling-design) (with Peter Schram)
+
+* ["Designing Political Order"](http://bkenkel.com/papers/designing-political-order) (with Scott Abramson and Emiel Awad)
+
+* ["Punish Liars, Not Free-Riders"](http://bkenkel.com/papers/punish-liars)
+
 
 
 ## Awards and Grants
@@ -116,6 +117,10 @@ Mailing
 
 ## Invited Presentations and Small Conferences
 
+* 2022\.  Formal Models of Conflict Mini-Conference, University of Pittsburgh.
+
+* 2021\.  Wallis Institute Annual Conference, University of Rochester.  (Invited discussant)
+
 * 2018\.  Ulric B. and Evelyn L. Bray Social Sciences Seminar, California Institute of Technology.
 
 * 2018\.  Political Science Speaker Series, Washington University in St. Louis.
@@ -141,8 +146,8 @@ Mailing
 
 # Other Conference Presentations
 
-* American Political Science Association: 2011, 2013--2014, 2016--2020
-* Midwest Political Science Association: 2012--2015, 2019
+* American Political Science Association: 2011, 2013--2014, 2016--2022
+* Midwest Political Science Association: 2012--2015, 2019, 2022
 * Southern Political Science Association: 2013, 2016, 2019--2020
 * European Political Science Association: 2017
 * Peace Science Society (International): 2011, 2014--2015, 2018
@@ -152,7 +157,7 @@ Mailing
 
 # Professional Service
 
-* Reviewer for *American Journal of Political Science*, *American Political Science Review*, *Communications in Statistics---Simulation and Computation*, *Conflict Management and Peace Science*, *Economic Inquiry*, *European Journal of International Relations*, *Games and Economic Behavior*, *International Interactions*, *International Organization*, *International Studies Quarterly*, *Japanese Journal of Political Science*, *Journal of Economic Surveys*, *Journal of Peace Research*, *Journal of Politics*, *Public Choice*, *Quarterly Journal of Political Science*, *Social Choice and Welfare*, *World Politics*.
+* Reviewer for *American Journal of Political Science*, *American Political Science Review*, *British Journal of Political Science*, *Communications in Statistics---Simulation and Computation*, *Comparative Political Studies*, *Conflict Management and Peace Science*, *Economic Inquiry*, *European Journal of International Relations*, *Games and Economic Behavior*, *International Interactions*, *International Organization*, *International Studies Quarterly*, *Japanese Journal of Political Science*, *Journal of Economic Surveys*, *Journal of Peace Research*, *Journal of Politics*, *Political Analysis*, *Political Science Research and Methods*, *Public Choice*, *Quarterly Journal of Political Science*, *Social Choice and Welfare*, *World Politics*.
 
 * American Political Science Association member (2008--present)
 
@@ -163,3 +168,5 @@ Mailing
     * Graduate Committee: 2014--2016
     * International Relations Search Committee: 2016
     * Placement Director: 2018--2019
+    * Nominations Committee: 2020--2021
+    * Political Economy of Conflict/Data Science Search Committee: 2021
