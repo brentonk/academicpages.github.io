@@ -52,9 +52,11 @@ Mailing
 
 # Publications
 
-* Brenton Kenkel and Jack Paine, ["A Theory of External Wars and European Parliaments,"](http://bkenkel.com/publications/external-wars) conditionally accepted at *International Organization*.
+* Brenton Kenkel, ["Social Conflict and the Predatory State,"](http://bkenkel.com/papers/social-conflict-predatory-state) accepted at *Quarterly Journal of Political Science*.
 
-* Michael Gibilisco, Brenton Kenkel, and Miguel R. Rueda, ["Competition and Civilian Victimization,"](https://doi.org/10.1177/00220027211070621) forthcoming in *Journal of Conflict Resolution*.
+* Brenton Kenkel and Jack Paine, ["A Theory of External Wars and European Parliaments,"](http://bkenkel.com/publications/external-wars) accepted at *International Organization*.
+
+* Michael Gibilisco, Brenton Kenkel, and Miguel R. Rueda, ["Competition and Civilian Victimization,"](https://doi.org/10.1177/00220027211070621) *Journal of Conflict Resolution* 66, no. 4--5 (2022).
 
 * Mark Fey and Brenton Kenkel, ["Is an Ultimatum the Last Word on Crisis Bargaining?"](https://doi.org/10.1086/708951) *Journal of Politics* 83, no. 1 (2021).
 
@@ -72,8 +74,6 @@ Mailing
 
 
 ## Working Papers
-
-* ["Social Conflict and the Predatory State"](http://bkenkel.com/papers/social-conflict-predatory-state) (revise and resubmit, *Quarterly Journal of Political Science*)
 
 * ["Diplomatic Relations and Conflict Management: A Dynamic Analysis"](http://bkenkel.com/papers/diplomatic-relations-conflict)
 
