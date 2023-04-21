@@ -21,7 +21,7 @@ Phone
 :   615-322-6222
 
 Mailing
-:   324 Commons  
+:   326 Commons  
     Vanderbilt University  
     PMB 0505  
     Nashville, TN 37203 
@@ -30,7 +30,8 @@ Mailing
 ## Employment
 
 * **Vanderbilt University**, Nashville, TN  
-  Assistant Professor, Department of Political Science, 2014--present.
+  Associate Professor, Department of Political Science, 2023--.  
+  Assistant Professor, Department of Political Science, 2014--2023.
 
 * **University of Rochester**, Rochester, NY  
   Visiting Postdoctoral Associate, Wallis Institute of Political Economy, 2017--2018.
@@ -52,9 +53,9 @@ Mailing
 
 # Publications
 
-* Brenton Kenkel, ["Social Conflict and the Predatory State,"](http://bkenkel.com/papers/social-conflict-predatory-state) accepted at *Quarterly Journal of Political Science*.
+* Brenton Kenkel, ["Social Conflict and the Predatory State,"](http://bkenkel.com/papers/social-conflict-predatory-state) forthcoming in *Quarterly Journal of Political Science*.
 
-* Brenton Kenkel and Jack Paine, ["A Theory of External Wars and European Parliaments,"](http://bkenkel.com/publications/external-wars) accepted at *International Organization*.
+* Brenton Kenkel and Jack Paine, ["A Theory of External Wars and European Parliaments,"](https://doi.org/10.1017/S0020818322000303) *International Organization* 77, no. 1 (2023).
 
 * Michael Gibilisco, Brenton Kenkel, and Miguel R. Rueda, ["Competition and Civilian Victimization,"](https://doi.org/10.1177/00220027211070621) *Journal of Conflict Resolution* 66, no. 4--5 (2022).
 
@@ -75,13 +76,13 @@ Mailing
 
 ## Working Papers
 
+* ["The Effective Power of Military Coalitions: A Unified Theoretical and Empirical Model"](http://bkenkel.com/papers/effective-power-coalitions) (with Kristopher Ramsay).  Revise and resubmit, *Journal of Politics*.
+
+* ["Designing Political Order"](http://bkenkel.com/papers/designing-political-order) (with Scott Abramson and Emiel Awad).  Under review.
+
+* ["Uncertainty in Crisis Bargaining with Multiple Policy Options"](http://bkenkel.com/papers/hassling-design) (with Peter Schram).
+
 * ["Diplomatic Relations and Conflict Management: A Dynamic Analysis"](http://bkenkel.com/papers/diplomatic-relations-conflict)
-
-* ["The Effective Power of Military Coalitions: A Unified Theoretical and Empirical Model"](http://bkenkel.com/papers/effective-power-coalitions) (with Kristopher Ramsay)
-
-* ["Uncertainty in Crisis Bargaining with Multiple Policy Options"](http://bkenkel.com/papers/hassling-design) (with Peter Schram)
-
-* ["Designing Political Order"](http://bkenkel.com/papers/designing-political-order) (with Scott Abramson and Emiel Awad)
 
 * ["Punish Liars, Not Free-Riders"](http://bkenkel.com/papers/punish-liars)
 
@@ -117,6 +118,10 @@ Mailing
 
 ## Invited Presentations and Small Conferences
 
+* 2023\.  Theory in Methods Conference, New York University.  (Invited discussant)
+
+* 2022\.  Political Economy Seminar, New York University.
+
 * 2022\.  Formal Models of Conflict Mini-Conference, University of Pittsburgh.
 
 * 2021\.  Wallis Institute Annual Conference, University of Rochester.  (Invited discussant)
@@ -147,7 +152,7 @@ Mailing
 # Other Conference Presentations
 
 * American Political Science Association: 2011, 2013--2014, 2016--2022
-* Midwest Political Science Association: 2012--2015, 2019, 2022
+* Midwest Political Science Association: 2012--2015, 2019, 2022--2023
 * Southern Political Science Association: 2013, 2016, 2019--2020
 * European Political Science Association: 2017
 * Peace Science Society (International): 2011, 2014--2015, 2018
@@ -167,6 +172,6 @@ Mailing
 * **Vanderbilt University**
     * Graduate Committee: 2014--2016
     * International Relations Search Committee: 2016
-    * Placement Director: 2018--2019
+    * Placement Director: 2018--2019, 2022
     * Nominations Committee: 2020--2021
     * Political Economy of Conflict/Data Science Search Committee: 2021
