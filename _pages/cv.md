@@ -78,9 +78,11 @@ Mailing
 
 * ["The Effective Power of Military Coalitions: A Unified Theoretical and Empirical Model"](http://bkenkel.com/papers/effective-power-coalitions) (with Kristopher Ramsay).  Revise and resubmit, *Journal of Politics*.
 
+* ["Artificially Precise Extremism: How Internet-Trained LLMs Exaggerate Our Differences"](https://osf.io/preprints/socarxiv/5ecfa/) (with Jim Bisbee, Josh Clinton, Cassy Dorff, and Jenn Larson).  Revise and resubmit, *Political Analysis*.
+
 * ["Designing Political Order"](http://bkenkel.com/papers/designing-political-order) (with Scott Abramson and Emiel Awad).  Under review.
 
-* ["Uncertainty in Crisis Bargaining with Multiple Policy Options"](http://bkenkel.com/papers/hassling-design) (with Peter Schram).
+* ["Uncertainty in Crisis Bargaining with Multiple Policy Options"](http://bkenkel.com/papers/hassling-design) (with Peter Schram).  Under review.
 
 * ["Diplomatic Relations and Conflict Management: A Dynamic Analysis"](http://bkenkel.com/papers/diplomatic-relations-conflict)
 
@@ -163,6 +165,8 @@ Mailing
 # Professional Service
 
 * Reviewer for *American Journal of Political Science*, *American Political Science Review*, *British Journal of Political Science*, *Communications in Statistics---Simulation and Computation*, *Comparative Political Studies*, *Conflict Management and Peace Science*, *Economic Inquiry*, *European Journal of International Relations*, *Games and Economic Behavior*, *International Interactions*, *International Organization*, *International Studies Quarterly*, *Japanese Journal of Political Science*, *Journal of Economic Surveys*, *Journal of Peace Research*, *Journal of Politics*, *Political Analysis*, *Political Science Research and Methods*, *Public Choice*, *Quarterly Journal of Political Science*, *Social Choice and Welfare*, *World Politics*.
+
+* APSA formal theory section, award committee member, 2023.
 
 * American Political Science Association member (2008--present)
 

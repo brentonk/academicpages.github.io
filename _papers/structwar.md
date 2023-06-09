@@ -2,11 +2,11 @@
 title: "The Effective Power of Military Coalitions: A Unified Theoretical and Empirical Model"
 collection: papers
 permalink: /papers/effective-power-coalitions
-date: 2021-06-29
+date: 2023-02-13
 paperurl: "/files/structwar.pdf"
 coauthors: "Kristopher W. Ramsay"
 excerpt: ""
-review: false
+rr: Journal of Politics
 ---
 
 **Abstract.**
